@@ -127,7 +127,7 @@ html {
     padding: 20px;
 }
 .gallery {
-    display: 360px;
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     box-sizing: border-box;
